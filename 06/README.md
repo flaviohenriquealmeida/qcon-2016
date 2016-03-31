@@ -38,7 +38,7 @@ Chegou a hora de criarmos as views particiais `lista.html` e `cadastro.html`, am
         <td>{{palestrante.nome}}</td>
         <td>{{palestrante.palestra}}</td>
     </tr>
-<table>
+</table>
 ```
 ```
 <!-- public/partials/cadastro.html -->
